@@ -1,0 +1,169 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background: rgb(240, 240, 240);
+
+}
+
+header{
+    background: white;
+    display: flex;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    justify-content: space-evenly;
+}
+
+header img{
+    width: 80px;
+    margin-top: 18px;
+    margin-left: 35px;
+    margin-bottom: 12px;
+}
+
+.order1{
+    margin-left: 180px;
+}
+
+.order img{
+    width: 140px;
+    margin-left: 50px;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li{
+    list-style: none;
+    margin-top: 16px;
+
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 20px;
+    margin-right: 20px;
+}
+
+.ggg img{
+    width: 1300px;
+    height: 480px;
+    margin-left: 110px;
+    margin-top: 120px;
+}
+
+.flex{
+    display: flex;
+    margin-left: 125px;
+    margin-top: 30px;
+}
+
+.gambar1 img{
+    width: 400px;
+    margin-right: 30px;
+}
+
+.gambar2 img{
+    width: 400px;
+    margin-right: 30px;
+}
+
+.gambar3 img{
+    width: 400px;
+    margin-right: 30px;
+}
+
+
+.recomend h1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 90px;
+
+}
+
+/* .recomend hr{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 90px;
+} */
+
+.flex2{
+    display: flex;
+    margin-left: 125px;
+    margin-top: 100px;
+}
+
+.paragraf p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.paragraf1 p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.button button{
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(44, 171, 61);
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 400px;
+    font-size: larger;
+    margin-bottom: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+
+.gambar4 img{
+    width: 400px;
+    margin-right: 30px;
+    border-radius: 10px;
+
+}
+
+.gambar5 img{
+    width: 400px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.gambar6 img{
+    width: 400px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+}
+
+footer .main{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 20px;
+}
+
+footer .main .container{
+    margin: 20px;
+}
+
